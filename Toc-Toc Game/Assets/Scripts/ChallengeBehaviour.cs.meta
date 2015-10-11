@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a541ee678950d642a74e51aec27fcb7
+timeCreated: 1444587632
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - challenge: {instanceID: 0}
+  - dog: {fileID: 194240, guid: 517af8c2e4162584da6a05c01ceca10b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
