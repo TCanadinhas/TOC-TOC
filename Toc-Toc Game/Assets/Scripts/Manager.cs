@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Manager : MonoBehaviour
 {
-    public void ButtomClicked(string ButtomName)
+    public void Buttomclicked(string ButtomName)
     {
         if (ButtomName == "Play")
         {
