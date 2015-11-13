@@ -28,8 +28,9 @@ public class ChallengeBehaviour : MonoBehaviour {
 
 		if(isInstantiated == false)
 		{
-			Instantiate(challenge, this.transform.position, this.transform.rotation);
-			isInstantiated = true;	
+			print("")
+			Instantiate(dog, this.transform.position, this.transform.rotation);
+			isInstantiated = true;
 		}
 
 	}
